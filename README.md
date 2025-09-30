@@ -31,9 +31,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
-</p>
+</p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajgupta09&theme=nightowl" alt="pankajgupta09" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajgupta09&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="pankajgupta09" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankajgupta09&count_private=true"/></p><br>
